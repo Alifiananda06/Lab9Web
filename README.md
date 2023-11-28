@@ -6,7 +6,8 @@ Nim: 312210168
 
 Kelas: TI.22.A2
 
-Instruksi Praktikum
+# Instruksi Praktikum
+
 1. Persiapkan text editor misalnya VSCode.
 2. Buat folder baru dengan nama lab9_php_modular pada docroot webserver
 (htdocs)
