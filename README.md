@@ -1,5 +1,3 @@
-# Lab9Web
-
 Nama: Alifia Ananda Putri
 
 Nim: 312210168
