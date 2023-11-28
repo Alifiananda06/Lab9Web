@@ -33,7 +33,7 @@ Buat file baru dengan nama about.php
 ![image](https://github.com/Alifiananda06/Lab9Web/assets/115884834/e44be8ee-10c8-4d21-8a30-dd33213c52cc)
 
 
-![image](https://github.com/Alifiananda06/Lab9Web/assets/115884834/ad88afc0-03c3-42b0-9bc9-3304bdd037bf)
+![image](https://github.com/Alifiananda06/Lab9Web/assets/115884834/590ef724-4ab4-4c9c-8f66-88169e0b63f9)
 
 
 # Pertanyaan dan Tugas
